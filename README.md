@@ -9,8 +9,11 @@ pip install -r requirements.txt
 ```
 ## Preprocessing
 Remove noise from images, convert to grayscale, and unify image sizes.
++ [Preprocessing](https://github.com/minhao920201/Car-detection/blob/main/preprocessing.py)
 ## Train Model
-Building CNN+LSTM model to identify traffic accidents.  
+Building CNN+LSTM model to identify traffic accidents.
++ [Model](https://github.com/minhao920201/Car-detection/blob/main/CNNLSTM.py)
+
 **Loss Function**
 
 ![image](https://github.com/minhao920201/Car-detection/blob/main/demo/loss.png)  
